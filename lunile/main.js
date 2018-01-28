@@ -145,7 +145,7 @@ window.addEventListener('click',function(e){
     // cerere XML ;
     var reqJson = new XMLHttpRequest();
 
-    reqJson.open('GET','vegetale.json');
+    reqJson.open('GET','../vegetale.json');
 
     reqJson.onreadystatechange = function(){
 
