@@ -1,0 +1,109 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Sezonul Legumelor</title>
+         
+        <link rel="stylesheet" href="style.css" type="text/css">
+        <!-- trebuie sa iau toate fonturile si sa le pun intr-un singur link :D -->
+        <link href="https://fonts.googleapis.com/css?family=Barlow|Josefin+Slab|Raleway|Roboto+Slab|Titillium+Web" rel="stylesheet">  
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:300" rel="stylesheet"> 
+    </head>
+
+    <body>
+    <div class="totul">
+        <div class="imagine">
+            <div class="container">
+                <div class="content">
+
+                    <div class="select">
+                        <!-- buton de home -->
+                    <a href="../index.html"><button  class="homebtn"> <img src="img/home.png" class="home-img"> <span class=""> Pagina Principala </span></button></a>
+                    
+                <!-- butonul si lista cu lunile din an -->
+                <!-- generez butoanele cu JS si elementele din lista trebuie sa le iau din fisierul JSON :D -->
+                <div class="dropdown">
+                    <button  class="dropbtn"> <img src="img/calendar.png" class="img-luna"> <span class="lunaAf"> Luna </span> <span class="arro-luna"><img src="img/downarrow.png" class="downarrow1"></span></button>
+                    <div id="lista" class="dropdown-content">
+                        
+                        <a href="../lunile/ianuarie/ianuarie.html" >Ianuarie</a>   
+                        <a href="../lunile/februarie/februarie.html">Februarie</a>
+                        <a href="../lunile/martie/martie.html">Martie</a>
+                        <a href="../lunile/aprilie/aprilie.html">Aprilie</a>
+                        <a href="../lunile/mai/mai.html">Mai</a>
+                        <a href="../lunile/iunie/iunie.html">Iunie</a>
+                        <a href="../lunile/iulie/iulie.html">Iulie</a>
+                        <a href="../lunile/august/august.html">August</a>
+                        <a href="../lunile/septembrie/septembrie.html">Septembrie</a>
+                        <a href="../lunile/octombrie/octombrie.html">Octombrie</a>
+                        <a href="../lunile/noiembrie/noiembrie.html">Noiembrie</a>
+                        <a href="../lunile/decembrie/decembrie.html">Decembrie</a>
+                        <a href="../lunile/toate/toate.html">Orice Luna</a>
+                    </div>
+                  </div> 
+
+                          <!-- Butonul si lista produselor  -->
+                          <div class="dropdownFood">
+                                <button class="dropbtn1"><img class="img-produs" src="img/produse.png"> <span class="produsAf"> Produs </span> <span class="arro-produs"><img src="img/downarrow.png" class="downarrow2"></span></button>
+
+                                <div id="lista1" class="dropdown-content1">
+                                    <!-- vegetale -->
+                                        
+                                </div>
+                              </div>
+            </div>
+            </div>
+            </div>
+        </div>
+
+        <div class="vegetale">
+
+            <div class="middle">
+                <div class="produse-titlu">
+                    <!-- Titlul in care trebuie sa afisez luna in care ne aflam -->
+            <h3 id="titluVeg">Varza de Bruxelles</h3>
+                </div>
+
+                <!-- lista cu cartonasele despre produse -->
+             <ul class="veg-ul-list">
+
+                    <li class="info-luni">
+                        <div class="luni-col">
+                            <h3>Lunile de sezon ale acestui produs:</h3>
+                        </div>
+                        <div class="luni-sezon">
+
+                        </div>
+                    </li>
+
+                                
+            </ul>
+
+
+            </div>
+        </div>
+        
+        <footer class="footer">
+                
+                            <div class="info">
+                
+                                <div class="sezon">
+                                    <a href="../footer/dece/dece.html" title="info">De ce sa alegi produsele de sezon?</a>
+                                </div>
+                
+                                <div class="despre">
+                                    <a href="#" title="site">Despre</a>
+                                </div>
+                
+                                <div class="cpy">
+                                    <p>Imaginile folosite de pe <a href="https://unsplash.com" target="_blank">https://unsplash.com</a></p>
+                                </div>
+                
+                
+                            </div>
+                
+                
+                        </footer>        
+    </div>
+        <script src="main.js"></script>
+    </body>
+</html>

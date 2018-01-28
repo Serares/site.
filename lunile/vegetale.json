@@ -1,0 +1,634 @@
+[
+    
+        {
+            "altimagine": "Mere",
+            "imagine": "http://topfarmer.co.ke/wp-content/uploads/2017/02/Apple.jpg",
+            "titlu":"Mere",
+            "descriere":"Merele sunt bune",
+            "linkprodus": "../../produse/mere.html",
+            "luna":["iulie","august","septembrie","octombrie","noiembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Ceapa Verde",
+            "imagine": "https://www.femeia.ro/wp-content/uploads/2014/03/green-onion-699943_960_720.jpg",
+            "titlu":"Ceapa Verde",
+            "descriere":"Ceapa verde este una dintre bucuriile primăverii şi unul dintre medicamentele oferite de natură.",
+            "linkprodus": "../../produse/ceapaverde.html",
+            "luna":["aprilie","mai","iunie"]
+    
+        },
+    
+        {
+            "altimagine": "Usturoi Verde",
+            "imagine": "http://andoser.ro/wp-content/uploads/photo-gallery/Usturoi-verde-de-legatura/Usturoi_verde_Andoser_3.jpg",
+            "titlu":"Usturoi Verde",
+            "descriere":"Usturoiul verde este apreciat încă din antichitate pentru proprietățile sale extraordinare în ameliorarea și tratarea a numeroase boli.",
+            "linkprodus": "../../produse/usturoiverde.html",
+            "luna":["aprilie","mai","iunie"]
+    
+        },
+    
+        {
+            "altimagine": "Spanac",
+            "imagine": "https://www.almanac.com/sites/default/files/image_nodes/spinach-leaves.jpg",
+            "titlu":"Spanac",
+            "descriere":"Se cultiva pentru frunzele sale ce se consuma in stare proaspata, fierte, oparite sau pregatite sub forma de diferite preparate.",
+            "linkprodus": "../../produse/spanac.html",
+            "luna":["aprilie","mai","iunie"]
+        },
+    
+        {
+            "altimagine": "Loboda",
+            "imagine": "http://www.ziuaconstanta.ro/images/stories/2014/04/17/frunze-loboda.JPG",
+            "titlu":"Loboda",
+            "descriere":"Deşi gustul ei poate să fie uşor acid, o poţi folosi în mâncăruri în combinaţie cu spanacul sau alte legume verzi.",
+            "linkprodus": "../../produse/loboda.html",
+            "luna":["aprilie","mai","iunie"]
+        },
+    
+        {
+            "altimagine": "Salate",
+            "imagine": "http://www.ghidnutritie.ro/wp-content/uploads/2015/06/1349688601333791",
+            "titlu":"Salate",
+            "descriere":"Frunzele de salata gazduiesc numerosi fito-nutrienti necesari pentru un metabolism optim.",
+            "linkprodus": "../../produse/salate.html",
+            "luna":["aprilie","mai","iunie"]
+    
+        },
+    
+        {
+            "altimagine": "Ridichi de Luna",
+            "imagine": "https://www.agropost.ro/wp-content/uploads/2016/02/ridichi-de-luna-tehnologie-de-cultura.jpg",
+            "titlu":"Ridichi",
+            "descriere":"Ridichea, Raphanus sativus, este o leguma cultivata in zonele cu clima temperata pentru radacina suculenta si bulboasa.",
+            "linkprodus": "../../produse/ridichideluna.html",
+            "luna":["mai","iunie"]
+    
+        },
+    
+        {
+            "altimagine": "Marar",
+            "imagine": "http://www.zumi.md/media/2013/12/planta-care-te-scapa-de-celulita-i-ii-marete-sanii-afla-aici-totul-despre-marar.jpg",
+            "titlu":"Marar",
+            "descriere":"Mărarul este un condiment foarte aromat originar din regiunile situate la est de Mediterană fiind folosit încă din Evul Mediu pentru a alunga spiritele rele.",
+            "linkprodus": "../../produse/marar.html",
+            "luna":["mai","iunie","iulie","august","septembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Cimbru",
+            "imagine": "http://decostyle.mayra.ro/upload/1/article/441/1_original.jpg",
+            "titlu":"Cimbru",
+            "descriere":"Frunzele de cimbru proaspete sau uscate, dau o esenta vie de aromatizare, la supe, tocane si legume.",
+            "linkprodus": "../../produse/cimbru.html",
+            "luna":["iunie","iulie","august","septembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Patrunjel",
+            "imagine": "https://alexandruguzi.ro/wp-content/uploads/2017/06/beneficii-necunoscute-ale-consumului-de-patrunjel.jpg",
+            "titlu":"Patrunjel",
+            "descriere":"Este o planta extrem de ieftina si folosita inca din vremea Greciei Antice. Astazi, patrunjelul este des folosit pentru aromatizarea si decorarea mancarurilor diverse.",
+            "linkprodus": "../../produse/patrunjel.html",
+            "luna":["iunie","iulie","august","septembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Tarhon",
+            "imagine": "http://alba24.ro/wp-content/uploads/2017/04/tarhon.jpg",
+            "titlu":"Tarhon",
+            "descriere":"Extrem de aromat şi versatil, tarhonul este folosit în bucătăria românească cu precădere la prepararea supelor şi ciorbelor.",
+            "linkprodus": "../../produse/tarhon.html",
+            "luna":["iunie","iulie","august","septembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Oregano",
+            "imagine": "https://maxpull-tlu7l6lqiu.stackpathdns.com/wp-content/uploads/2017/05/oregano-variety.jpg",
+            "titlu":"Oregano",
+            "descriere":"Oregano creşte prin fâneţele din regiunile de deal şi de munte.",
+            "linkprodus": "../../produse/oregano.html",
+            "luna":["iunie","iulie","august","septembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Menta",
+            "imagine": "http://cdn2.cocinadelirante.com/sites/default/files/images/2017/08/menta.jpg",
+            "titlu":"Menta",
+            "descriere":"Înfloreşte începând cu luna iunie şi până în septembrie.",
+            "linkprodus": "../../produse/menta.html",
+            "luna":["iunie","iulie","august","septembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Mazare Verde",
+            "imagine": "http://ghidnutritiecanina.ro/wp-content/uploads/2014/02/mazare.jpg",
+            "titlu":"Mazare Verde",
+            "descriere":"Cu un puternic efect antioxidant, bogata in nutrienti, vitamine ( B1, B2, B3, B6, A, C si K ), magneziu, fibre solubile si insolubile, precum si acid folic.",
+            "linkprodus": "../../produse/mazareverde.html",
+            "luna":["iunie"]
+    
+        },
+    
+        {
+            "altimagine": "Fasole Pastai",
+            "imagine": "https://bodygeek.ro/wp-content/uploads/2014/06/Fasole-verde-600x307.jpg",
+            "titlu":"Fasole Pastai",
+            "descriere":"Fasolea pastai, fie ea verde sau galbena, este un aliment foarte sanatos ce contine fibre si nutrienti. ",
+            "linkprodus": "../../produse/fasolepastai.html",
+            "luna":["iunie"]
+        },
+    
+        {
+            "altimagine": "Dovlecei",
+            "imagine": "http://scms.machteamsoft.ro/uploads/photos/652x450/652x450_021793-dovlecei.jpg",
+            "titlu":"Dovlecei",
+            "descriere":"Dovlecelul este unul unul din alimentele reconfortante și răcoritoare, perfecte pentru sezonul cald. ",
+            "linkprodus": "../../produse/dovlecei.html",
+            "luna":["iunie","iulie","august","septembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Sfecla",
+            "imagine": "https://i.ytimg.com/vi/0qhQz6yru4w/maxresdefault.jpg",
+            "titlu":"Sfecla",
+            "descriere":"Sfecla roşie se numără printre legumele care pot fi păstrate şi în lunile geroase, de iarnă, fără a-şi pierde calităţile.",
+            "linkprodus": "../../produse/sfecla.html",
+            "luna":["iunie","iulie","august","septembrie","octombrie","noiembrie","decembrie","ianuarie","februarie","martie"]
+    
+        },
+    
+        {
+            "altimagine": "Morcovi",
+            "imagine": "https://media.npr.org/assets/img/2012/04/03/carrotmain1_wide-4aca9b1fbdcc432e640feda4a79369e8946c8bb5-s900-c85.jpg",
+            "titlu":"Morcovi",
+            "descriere":"Fara pretentii exagerate fata de conditiile de mediu, rezistenti la canicula, iubitori de caldura.",
+            "linkprodus": "../../produse/morcovi.html",
+            "luna":["iunie","iulie","august","septembrie","octombrie","noiembrie","decembrie","ianuarie","februarie","martie"]
+    
+        },
+    
+        {
+            "altimagine": "Rosii",
+            "imagine": "https://i0.wp.com/sfatnaturist.ro/wp-content/uploads/2017/05/Care-sunt-cele-mai-bune-soiuri-de-rosii-ce-pot-fi-cultivate-in-Romania.jpg?resize=640%2C421",
+            "titlu":"Rosii",
+            "descriere":"Una dintre cele mai populare culturi in Romania este fara indoiala cea de rosii. ",
+            "linkprodus": "../../produse/rosii.html",
+            "luna":["iunie","iulie","august","septembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Castraveti",
+            "imagine": "https://www.pestre.ro/blog/wp-content/uploads/2016/07/castraveti-in-gradina.jpg",
+            "titlu":"Castraveti",
+            "descriere":"Castravetele este o leguma din familia Cucurbitaceae, provine din India, prefea solurile usoare nisipoase",
+            "linkprodus": "../../produse/castraveti.html",
+            "luna":["iunie","iulie","august","septembrie","octombrie"]
+    
+        },
+    
+        {
+            "altimagine": "Busuioc Frunze",
+            "imagine": "http://assets.sport.ro/assets/foodstory/2013/05/30/image_galleries/2351/5-retete-cu-busuioc-proaspat_size1.jpg",
+            "titlu":"Busuioc Frunze",
+            "descriere":"Busuiocul este o planta aromatica esentiala a verii. Aduce arome mediteraneene in multe feluri de mancare.",
+            "linkprodus": "../../produse/busuiocfrunze.html",
+            "luna":["iulie","august","septembrie","octombrie","noiembrie","decembrie","ianuarie","februarie","martie"]
+    
+        },
+    
+        {
+            "altimagine": "Ardei Gras",
+            "imagine": "http://www.slabescu.ro/wp-content/uploads/2013/10/Dieta-cu-ardei-gras.jpg",
+            "titlu":"Ardei Gras",
+            "descriere":"Ardeii grași sunt bogați în fibre,vitamina A și vitamina C. Dar în funcție de culoarea lor, aceștia pot fi diferți.",
+            "linkprodus": "../../produse/ardeigras.html",
+            "luna":["iulie","august","septembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Vinete",
+            "imagine": "http://2.bp.blogspot.com/-CN_FGtS-oJU/T_qC7zFeiQI/AAAAAAAADsc/-tqxcwjcZfU/s1600/1.jpg",
+            "titlu":"Vinete",
+            "descriere":"Este o plantă anuală, de obicei spinoasă, cu frunze mari, lobate, lungi de 10–20 cm și late de 5–10 cm. ",
+            "linkprodus": "../../produse/vinete.html",
+            "luna":["iulie","august","septembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Pepeni Galbeni",
+            "imagine": "http://mogosagro.ro/bz/images/pepene/galben/siglo.jpg",
+            "titlu":"Pepeni Galbeni",
+            "descriere":"Poate intra cu usurinta in componenta oricarui de fel de mancare: supe, salate,deserturi,bauturi racoritoare.",
+            "linkprodus": "../../produse/pepenigalbeni.html",
+            "luna":["iulie","august"]
+    
+        },
+    
+        {
+            "altimagine": "Pepeni Verzi",
+            "imagine": "http://www.cartiagricole.ro/wp-content/uploads/2015/02/cultivare-pepeni-e1424737818265.jpg",
+            "titlu":"Pepeni Verzi",
+            "descriere":"Africa de Sud si Centrala, unde creste spontan. In sec. al XVI- lea apare si in Europa.",
+            "linkprodus": "../../produse/pepeniverzi.html",
+            "luna":["iulie","august"]
+        },
+    
+        {
+            "altimagine": "Gulii",
+            "imagine": "http://decostyle.mayra.ro/upload/1/article/588/2_original.jpg",
+            "titlu":"Gulii",
+            "descriere":"Gulia creste cu usurinta, este hranitoare si are un gust foarte bun.",
+            "linkprodus": "../../produse/gulii.html",
+            "luna":["iulie","august","septembrie"]
+        },
+    
+        {
+            "altimagine": "Porumb Dulce",
+            "imagine": "http://agrointel.ro/wp-content/uploads/2015/07/cultura-de-porumb-dulce.jpg",
+            "titlu":"Porumb Dulce",
+            "descriere":"Porumbul zaharat este o specie de porumb diferita de porumbul furajer.",
+            "linkprodus": "../../produse/porumbdulce.html",
+            "luna":["iulie","august","septembrie"]
+        },
+    
+        {
+            "altimagine": "Fenicul",
+            "imagine": "http://storage0.dms.mpinteractiv.ro/media/401/721/27230/13996025/3/24971428-l.jpg?width=290",
+            "titlu":"Fenicul",
+            "descriere":"Feniculul face parte din familia plantelor perene şi este o plantă ce are un miros dulce, originară din Europa de Sud.",
+            "linkprodus": "../../produse/fenicul.html",
+            "luna":["iulie","august"]
+        },
+    
+        {
+            "altimagine": "Ardei Iuti",
+            "imagine": "http://image.stirileprotv.ro/media/images/680xX/Sep2014/61572041.jpg",
+            "titlu":"Ardei Iuti",
+            "descriere":"Ardeiul este o plantă perenă, dar care nu rezistă deloc frigului şi de aceea cel mai des este considerată plantă anuală.",
+            "linkprodus": "../../produse/ardeiiuti.html",
+            "luna":["iulie","august","septembrie"]
+        },
+    
+        {
+            "altimagine": "Telina Radacina",
+            "imagine": "http://assets.sport.ro/assets/foodstory/2014/02/21/image_galleries/3849/profita-de-bunatatile-de-sezon-7-retete-cu-telina-care-te-vor-incanta_size1.jpg",
+            "titlu":"Telina Radacina",
+            "descriere":"Telina se procura cu usurinta aproape in orice perioada din an si de la ea se folosesc atat frunzele verzi, cat si radacina.",
+            "linkprodus": "../../produse/telinaradacina.html",
+            "luna":["august","septembrie","octombrie","noiembrie","decembrie","ianuarie","februarie","martie"]
+    
+        },
+    
+        {
+            "altimagine": "Patrunjel Radacina",
+            "imagine": "http://topremediinaturiste.ro/wp-content/uploads/2016/01/Parsley-roots1.jpg",
+            "titlu":"Patrunjel Radacina",
+            "descriere":"Este cunoscut din secolul al XVI-lea si se pare ca a fost obtinut in Germania sau Olanda. In tara noastra, patrunjelul de radacina se cultiva in toate zonele tarii.",
+            "linkprodus": "../../produse/patrunjelradacina.html",
+            "luna":["august","septembrie","octombrie","noiembrie","decembrie","ianuarie","februarie","martie"]
+    
+        },
+    
+        {
+            "altimagine": "Ridichii Negre",
+            "imagine": "http://www.zumi.md/media/2014/02/ridichea-neagra-ne-apara-de-numeroase-boli.-descopera-beneficiile.jpg",
+            "titlu":"Ridichii Negre",
+            "descriere":"Ridichea neagră aparține familiei Cruciferelor, acesta este mai mare decât ridichea obișnuită, cu o coaja groasă, neagră și miez alb.",
+            "linkprodus": "../../produse/ridichiinegre.html",
+            "luna":["august","septembrie","octombrie","noiembrie","decembrie","ianuarie","februarie","martie"]
+    
+        },
+    
+        {
+            "altimagine": "Ceapa Uscata",
+            "imagine": "http://www.fermadinpoiana.ro/legume/img/ceapa-uscata.jpg",
+            "titlu":"Ceapa Uscata",
+            "descriere":"Soiul de ceapa Stuttgarter este cel mai des intalnit soi din cultura din tara noastra.",
+            "linkprodus": "../../produse/ceapauscata.html",
+            "luna":["august","septembrie","octombrie","noiembrie","decembrie","ianuarie","februarie","martie"]
+    
+        },
+    
+        {
+            "altimagine": "Fasole Uscata",
+            "imagine": "https://www.divahair.ro/images/speciale/articole/alexandra_diva/2010.03.24/Soup-Dried-Beans-Wolfgang-Puck-Recipe.jpg",
+            "titlu":"Fasole Uscata",
+            "descriere":"Originara din Peru si adusa pe continent de marinarii spanioli, fasolea a cucerit Europa tocmai pentru ca se poate pastra peste iarna, cultivarea ei nu e dificila",
+            "linkprodus": "../../produse/fasoleuscata.html",
+            "luna":["septembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Varza",
+            "imagine": "http://www.roenciclopedia.ro/img-oferte/43431247_3_huge.jpg",
+            "titlu":"Varza",
+            "descriere":"Este cunoscută de 4-5 mii de ani î.Hr. Era cultivată în Grecia Antică, iar în Evul Mediu era un aliment de bază pentru oameni.",
+            "linkprodus": "../../produse/varza.html",
+            "luna":["septembrie","octombrie"]
+        },
+    
+        {
+            "altimagine": "Conopida",
+            "imagine": "http://storage0.dms.mpinteractiv.ro/media/2/2/7228/5078552/4/conopida-main1.jpg?width=470",
+            "titlu":"Conopida",
+            "descriere":"Ea a fost recunoscută pentru calităţile ei nutriţionale şi pentru gustul ei plăcut încă dinaintea secoluli al XVI-lea.",
+            "linkprodus": "../../produse/conopida.html",
+            "luna":["septembrie","octombrie"]
+    
+        },
+    
+        {
+            "altimagine": "Brocoli",
+            "imagine": "https://www.avantaje.ro/wp-content/uploads/2017/08/brocoli-%C3%AEmpotriva-cancerului-de-piele.jpg",
+            "titlu":"Brocoli",
+            "descriere":"Broccoli este un ingredient uimitor pentru piureuri si coctailuri de legume.",
+            "linkprodus": "../../produse/brocoli.html",
+            "luna":["septembrie","octombrie"]
+    
+        },
+    
+        {
+            "altimagine": "Telina Frunze",
+            "imagine": "https://maxpull-tlu7l6lqiu.stackpathdns.com/wp-content/uploads/2012/07/celery2-400x266.jpg",
+            "titlu":"Telina Frunze",
+            "descriere":"Foarte apreciate pentru aroma pe care o confera bucatelor",
+            "linkprodus": "../../produse/telinafrunze.html",
+            "luna":["septembrie","octombrie"]
+    
+        },
+    
+        {
+            "altimagine": "Praz",
+            "imagine": "http://jurnalul.ro/thumbs/big/2013/07/27/bucataria-lumii-cu-papornita-de-praz-la-poarta-raiului-18458645.jpg",
+            "titlu":"Praz",
+            "descriere":"Principala caracteristică a plantei este bulbul mare, din care se desprinde rădăcina care are forma firoasă, de „mustăţi”.",
+            "linkprodus": "../../produse/praz.html",
+            "luna":["septembrie","octombrie"]
+    
+        },
+    
+        {
+            "altimagine": "Pastarnac",
+            "imagine": "https://www.gustos.ro/assets/site-articles/251/207/big_pastarnac.jpg",
+            "titlu":"Pastarnac",
+            "descriere":"Gustul dulceag şi aroma plăcută a făcut ca această legumă să fie nelipsită în bucătăria tradiţională românească.",
+            "linkprodus": "../../produse/pastarnac.html",
+            "luna":["septembrie","octombrie","noiembrie","decembrie","ianuarie","februarie","martie"]
+    
+        },
+    
+        {
+            "altimagine": "Dovlecei Placintari",
+            "imagine": "https://www.zoella.co.uk/wp-content/uploads/2016/10/323B9550-1600x900.jpg",
+            "titlu":"Dovlecei Placintari",
+            "descriere":"Din punct de vedere botanic, dovleacul este un fruct, pentru că se obţine din seminţe.",
+            "linkprodus": "../../produse/dovlecieiplacintari.html",
+            "luna":["octombrie"]
+    
+        },
+
+        {
+            "altimagine": "Cirese",
+            "imagine": "http://web3.protv.ro/assets/incont/2013/03/28/image_galleries/30513/porumboiu-romania-importa-cirese-din-africa-de-sud-si-fasole-din-etiopia_size9.jpg",
+            "titlu":"Cirese",
+            "descriere":"Un lucru poate mai puţin ştiut despre aceste fructe este că cireşele sunt sursă naturală de melatonină, un hormon care ajută la reglarea ciclului de odihnă.",
+            "linkprodus": "../../produse/cirese.html",
+            "luna":["iunie","iulie"]
+    
+        },
+
+        {
+            "altimagine": "Pere",
+            "imagine": "https://images.lacucinaitaliana.it/wp-content/uploads/2015/11/pere-ricette-salate-2-1024x570.jpg",
+            "titlu":"Pere",
+            "descriere":"Suculente si dulci, perele dau un plus de savoare in orice reteta le-ai include. Au vitamina C din plin si fibre.",
+            "linkprodus": "../../produse/pere.html",
+            "luna":["august","septembrie","octombrie","noiembrie","decembrie","ianuarie","februarie"]
+    
+        },
+    
+        {
+            "altimagine": "Varza de Bruxelles",
+            "imagine": "http://assets.sport.ro/assets/foodstory/2013/11/27/image_galleries/3467/cum-se-gateste-varza-de-bruxelles-5-retete-simple-de-incercat-acasa_size1.jpg",
+            "titlu":"Varza de Bruxelles",
+            "descriere":"Gatita corect, aceasta leguma de dimensiuni mici este absolut delicioasa. In plus,  este una cele mai bune surse de fibre, vitamine si minerale. Contine vitaminele A, C, E si K si acizi grasi esentiali Omega 3.",
+            "linkprodus": "../../produse/varzadebruxelles.html",
+            "luna":["septembrie","octombrie","noiembrie","decembrie","ianuarie","februarie","martie"]
+    
+        },
+    
+        {
+            "altimagine": "Nap",
+            "imagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Turnip_2622027.jpg/280px-Turnip_2622027.jpg",
+            "titlu":"Nap",
+            "descriere":"Napul face parte din aceeasi familie ca si varza kale si broccoli, despre care stim deja ca aduce numai beneficii pentru organism. Este bogat in potasiu, fibre, vitamina C si antioxidanti.",
+            "linkprodus": "../../produse/nap.html",
+            "luna":["septembrie","octombrie","noiembrie","decembrie","ianuarie","februarie","martie","aprilie"]
+    
+        },
+    
+        {
+            "altimagine": "Rodia",
+            "imagine": "https://www.drfuhrman.com/rollups/49fa7cecaf9a0460256a87416cba96f6566528fa5193a796c932c40632180859.jpg",
+            "titlu":"Rodia",
+            "descriere":"Este un fruct cu putine calorii, multe fibre, vitamine si antioxidanti care previn aparitia mai multor boli.",
+            "linkprodus": "../../produse/rodia.html",
+            "luna":["august","septembrie","octombrie","noiembrie","decembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Prune",
+            "imagine": "http://www.frunza-verde.ro/wp-content/uploads/2014/08/prune.jpg",
+            "titlu":"Prune",
+            "descriere":"Pruna este si un fruct care are puternice calitati energizante. Acest lucru se datoreaza zaharurilor pe care le contine si care potenteaza capacitatea energetica a organismului",
+            "linkprodus": "../../produse/prune.html",
+            "luna":["iulie","august"]
+    
+        },
+    
+        {
+            "altimagine": "Usturoi",
+            "imagine": "http://ziarulceahlaul.ro/wp-content/uploads/2016/11/Tina-Usturoi.jpg",
+            "titlu":"Usturoi",
+            "descriere":"Concentratia mare de sulf poate trata raceala comuna si chiar cancerul",
+            "linkprodus": "../../produse/usturoi.html",
+            "luna":["august","septembrie","octombrie","noiembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Rozmarin",
+            "imagine": "https://www.aflacum.ro/images/photo_galleries/large/17559/rozmarin.jpg",
+            "titlu":"Rozmarin",
+            "descriere":"Parfumatul si deliciosul rozmarin este o planta minunata pe care o poti creste pe cont propriu, fie in casa, intr-un ghiveci sau afara, in gradina ta.",
+            "linkprodus": "../../produse/rozmarin.html",
+            "luna":["aprilie","mai","iunie","iulie","august","septembrie","octombrie","noiembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Caise",
+            "imagine": "https://doc.ro/uploads/2015/07/caise.jpg",
+            "titlu":"Caise",
+            "descriere":" consumul de caise ajută la reglarea hipertensiunii arteriale și contribuie la prevenția problemele cardiovasculare și degenerative, protejează vederea, pielea, părul, dinți și oasele.",
+            "linkprodus": "../../produse/caise.html",
+            "luna":["iulie","august"]
+    
+        },
+    
+        {
+            "altimagine": "Mure",
+            "imagine": "https://doc.ro/uploads/2013/beneficii-mure.jpg",
+            "titlu":"Mure",
+            "descriere":"Murele sunt fructe de pădure răspândite în întreaga lume care cresc din abundență.",
+            "linkprodus": "../../produse/mure.html",
+            "luna":["iulie","august","septembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Afine",
+            "imagine": "http://storage0.dms.mpinteractiv.ro/media/401/721/27230/10104047/3/afine-minuni.jpg?height=404&width=580",
+            "titlu":"Afine",
+            "descriere":"Afinele sunt bogate in antioxidanti. Totusi, beneficiile afinelor inseamna mai mult decat substantele chimice din compozitia acestora, despre care ati auzit atat de des.",
+            "linkprodus": "../../produse/afine.html",
+            "luna":["iulie","august"]
+    
+        },
+    
+        {
+            "altimagine": "Agrise",
+            "imagine": "http://mamistietot.ro/wp-content/uploads/2013/02/F_agrise.png",
+            "titlu":"Agrise",
+            "descriere":"Agrisele, fructe de padure de un rosu aprins, bogate in vitamina C, ii cuceresc pe romanii iubitori de mancare sanatoasa. ",
+            "linkprodus": "../../produse/agrise.html",
+            "luna":["iulie","august"]
+    
+        },
+    
+        {
+            "altimagine": "Rubarba",
+            "imagine": "https://www.culinar.ro/assets/files/articles/2594/fdb_1443003307_rubarba_ce_este_si_cum_o_folosim.jpg",
+            "titlu":"Rubarba",
+            "descriere":"Frunzele sunt toxice, contin acid oxalic, care poate provoca moartea. In medicina populara se folosesc petiolurile si rizomii. Rizomii se recolteaza toamna tarziu, numai de la plante care au cel putin 8 ani de vegetatie.",
+            "linkprodus": "../../produse/rubarba.html",
+            "luna":["aprilie","mai","iunie"]
+    
+        },
+    
+        {
+            "altimagine": "Andive",
+            "imagine": "https://www.copilul.ro/_files/articole/andive.jpg",
+            "titlu":"Andive",
+            "descriere":"Despre andiva se spune ca are nenumarate beneficii pentru sanatate: de la stimularea apetitului pana la tratarea acneei si prevenirea anumitor tipuri de cancer.",
+            "linkprodus": "../../produse/andive.html",
+            "luna":["septembrie","octombrie","noiembrie","decembrie","ianuarie","februarie"]
+    
+        },
+    
+        {
+            "altimagine": "Struguri",
+            "imagine": "https://img1.ele.ro/www/articole/640x0/4/46785111.jpg",
+            "titlu":"Struguri",
+            "descriere":"Strugurii negri sunt vedetele incontestabile ale toamnei. Plini de vitamine, minerale si substante antioxidante.",
+            "linkprodus": "../../produse/struguri.html",
+            "luna":["iulie","august","septembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Lavanda",
+            "imagine": "https://img1.povesteacasei.ro/imagine/643x2000/Lavanda%2B-%2Bsfaturi%2Butile%2Bpentru%2Bcrestere%2Bsi%2Bingrijire_42663.jpg",
+            "titlu":"Lavanda",
+            "descriere":"Lavanda sau Levantica (Lavandula angustifolia) este o planta aromatica si medicinala, cu tulpini ramificate care formeaza o tufa de 30 - 50 cm inaltime.",
+            "linkprodus": "../../produse/lavanda.html",
+            "luna":["iulie","august","septembrie","octombrie"]
+    
+        },
+    
+        {
+            "altimagine": "Capsuni",
+            "imagine": "http://agrointel.ro/wp-content/uploads/2015/06/Soiul-de-capsuni-Honeoye.jpg",
+            "titlu":"Capsuni",
+            "descriere":"Nimic nu spune mai bine ca a venit vara decat o portie din aceste fructe proaspete.",
+            "linkprodus": "../../produse/capsuni.html",
+            "luna":["iunie","iulie"]
+    
+        },
+    
+        {
+            "altimagine": "Cartofi",
+            "imagine": "http://assets.sport.ro/assets/foodstory/2013/11/01/image_galleries/3283/8-feluri-in-care-poti-gati-cartofii_size1.jpg",
+            "titlu":"Cartofi",
+            "descriere":"Cartofii sunt unul dintre alimentele cele mai frecvent consumate din lume.",
+            "linkprodus": "../../produse/cartofi.html",
+            "luna":["iulie","august","septembrie","octombrie"]
+    
+        },
+    
+        {
+            "altimagine": "Piersici",
+            "imagine": "http://tb.ziareromania.ro/-b-Alimentul-zilei---b--Piersici---calorii-si-valori-nutritionale/9d73c1ab087e8849bd/327/0/1/70/-b-Alimentul-zilei---b--Piersici---calorii-si-valori-nutritionale.jpg",
+            "titlu":"Piersici",
+            "descriere":"Piersicile nu sunt numai niste fructe gustoase si zemoase. Ele iti aduc nenumarate beneficii pentru sanatate, fiind considerate 'fructele longevitatii'.",
+            "linkprodus": "../../produse/piersici.html",
+            "luna":["iulie","august"]
+    
+        },
+    
+        {
+            "altimagine": "Ciuperci",
+            "imagine": "http://www.covera.ro/continut/produse/752/600/ciuperci-champignon_1158.jpg",
+            "titlu":"Ciuperci",
+            "descriere":" Exista aproximativ 200.000 de specii de ciuperci, insa doar ciupercile Champignon au primit statut de vedeta internationala, fiind cultivate in peste 70 de tari ale lumii.",
+            "linkprodus": "../../produse/ciuperci.html",
+            "luna":["aprilie","mai","iunie","iulie","august","septembrie","octombrie","noiembrie","decembrie"]
+    
+        },
+    
+        {
+            "altimagine": "Salvie",
+            "imagine": "http://www.frunza-verde.ro/wp-content/uploads/2011/03/salvie-300x197.jpg",
+            "titlu":"Salvie",
+            "descriere":"Salvia, plantă din acceași familie cu menta, are o istorie îndelungată ca remediu pentru diferite boli. De altfel, chiar și denumirea provine din cuvântul latin „salvare”, care semnifică a salva.",
+            "linkprodus": "../../produse/salvie.html",
+            "luna":["aprilie","mai","iunie","iulie","august","septembrie","octombrie"]
+    
+        },
+    
+        {
+            "altimagine": "Zmeura",
+            "imagine": "http://assets.sport.ro/assets/foodstory/2013/06/20/image_galleries/2496/3-retete-dulci-pentru-deserturi-de-vara-cu-zmeura_size1.jpg",
+            "titlu":"Zmeura",
+            "descriere":"Zmeura are proprietăţi anticancerigene şi antimicrobiene şi este o sursă importantă de vitamina C, magneziu, cupru şi calciu",
+            "linkprodus": "../../produse/zmeura.html",
+            "luna":["iunie","iulie","august"]
+    
+        },
+    
+        {
+            "altimagine": "Gutui",
+            "imagine": "http://agrointel.ro/wp-content/uploads/2015/09/livada-de-gutui-investitie.jpg",
+            "titlu":"Gutui",
+            "descriere":"Puterea mare de adaptare la condițiile climatice diferite face gutuiul un element foarte important în cultura pomilor fructiferi.",
+            "linkprodus": "../../produse/gutui.html",
+            "luna":["octombrie","noiembrie"]
+    
+        }
+    
+    ]

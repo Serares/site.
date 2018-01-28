@@ -1,0 +1,624 @@
+html, body {
+    height: 100%;
+    min-height: 100%;
+    width: 100%;
+    margin:0;
+    padding: 0;
+
+}
+/* folosesc flexbox ca sa scad height cand sunt mai putine divuri */
+.totul {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+
+.imagine {
+    /* orchard */
+    /* background-image: url("img/livada2.jpg"); */
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    width: 100%;
+    height:330px;
+    left:0;
+    text-align:center;
+    image-rendering: pixelated;
+}
+
+.container {
+
+    width:900px;
+    height:200px;
+    margin: auto;
+    
+
+}
+
+.content {
+    position: relative;
+    top: 50%;
+    transform:translateY(-30%);
+}
+
+.titlu{
+    color:#ffffff;
+    
+}
+
+.titlu h3{
+    font-family: 'Barlow', sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+    /* adauca contur textului */
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.titlu h1{
+    font-family: 'Roboto Slab', serif;
+    letter-spacing: 2px;
+
+}
+
+
+.imagine h1{
+    margin: 0;
+}
+
+
+/* HOME btn */
+
+
+.homebtn{
+    font-family: 'Barlow', sans-serif;
+    font-size: 20px;
+    letter-spacing:1px;
+    background-color: #ffffff;
+    color: #333;
+    width: 250px;
+    height:50px;
+    border:none;
+    border-radius: 2px;
+    float:left;
+    transform:translateY(150%);
+    padding:0;
+    margin:auto;
+    margin-right:55px;
+}
+
+.homebtn:hover{
+    color: #a09a97;
+}
+
+.homebtn:active{
+
+    border: 1px solid #335;
+}
+
+.homebtn img {
+    height:25px;
+    width: 25px;
+    float:left;
+    margin-left:10px;
+}
+
+/* Selectorii */
+
+/* pentru selectorul de luni */
+.select {
+    margin:auto;
+    height: 200px;
+    width:900px;
+    image-rendering: auto;
+}
+
+
+.dropbtn {
+    font-family: 'Barlow', sans-serif;
+    font-size: 20px;
+    letter-spacing:2px;
+    background-color: #ffffff;
+    color: #333;
+    width: 250px;
+    height:50px;
+    border:none;
+    border-radius: 2px;
+    
+}
+
+.dropbtn:hover {
+    
+    color: #a09a97;
+ }
+
+.dropbtn:active{
+     border: 1px solid #335;
+ }
+
+ /* luna afisata de pe buton */
+
+.lunaAf{
+    pointer-events: none;
+}
+
+.img-luna{
+    pointer-events: none;
+    float: left;
+}
+
+.arro-luna {
+    pointer-events: none;
+    float : right;
+}
+
+.dropbtn img{
+    width:28px;
+    height:28px;
+}
+
+
+
+.dropdown {
+    position: relative;
+    transform:translateY(150%);
+    float: left;
+}
+
+.dropdown-content {
+    display:none;
+    position:absolute;
+    background-color: #ffffff;
+    min-width: 250px;
+    max-height: 160px;
+    overflow-y: scroll;
+    z-index: 1;
+}
+
+.dropdown-content a{
+    color: #333;
+    text-decoration: none;
+    display: block;
+    text-align:left;
+    padding-left:9px;
+    padding-top: 5px;
+    font-family: 'Barlow', sans-serif;
+}
+
+.dropdown-content a:hover{
+    background-color: rgb(33, 50, 124);
+    color: rgb(255, 255, 255);
+}
+
+.show {
+    display:block;
+}
+
+    /*  pentru selectorul de produse */
+.dropdownFood {
+    transform:translateY(150%);
+    width: 250px;
+    height: 50px;
+    right: 0;
+    float:right;
+    
+}
+
+.dropbtn1 {
+    font-family: 'Barlow', sans-serif;
+    font-size: 20px;
+    letter-spacing:2px;
+    background-color: #ffffff;
+    color: #333;
+    width: 250px;
+    height:50px;
+    border:none;
+    border-radius: 2px;
+}
+.dropbtn1:hover {
+    
+    color: #a09a97;
+    
+}
+
+.dropbtn1:active{
+    border: 1px solid #335;
+}
+
+.img-produs{
+    pointer-events: none;
+    float:left;
+}
+
+.arro-produs{
+    pointer-events: none;
+    float: right;
+}
+
+.dropbtn1 img{
+    width:28px;
+    height:28px;
+}
+
+
+
+.dropdown-content1 {
+    display:none;
+    position:absolute;
+    background-color: #ffffff;
+    min-width: 250px;
+    max-height: 160px;
+    overflow-y: scroll;
+    z-index: 1;
+    
+}
+
+.dropdown-content1 a{
+    color: #333;
+    text-decoration: none;
+    display: block;
+    text-align:left;
+    padding-left:9px;
+    padding-top: 5px;
+    font-family: 'Barlow', sans-serif;
+}
+
+.dropdown-content1 a:hover{
+    background-color: rgb(33, 50, 124);
+    color: rgb(255, 255, 255);
+}
+
+.show1 {
+    display:block;
+}
+
+/* animatie sageti la click */
+.dropdownFood .downarrow2{
+    transition : all 0.3s ease;
+}
+.dropdown .downarrow1 {
+    transition: all 0.3s ease;
+}
+
+.downarrow1d {
+
+    transform: rotateZ(-180deg);
+
+}
+
+.downarrow2d{
+    transform: rotateZ(-180deg);
+}
+
+
+/*  lista legumelor */
+.vegetale{
+    display: block;
+    position: relative;
+    flex: 1;
+    width:100%;
+    image-rendering: pixelated;
+}
+
+
+/* fac imaginea din backgroundul divului vegetale sa fie transparenta */
+.vegetale::after {
+    content: "";
+    background: url('img/background2.png');
+    background-attachment: fixed;
+    opacity: 0.2;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+  }
+  
+.produse-titlu {
+    width:100%;
+    height:70px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+    font-weight: 200;
+    font-size: 25px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid white;
+    padding-top: 50px;
+}
+
+
+
+.middle {
+    
+    min-height:100%;
+    padding-top: 20px;
+    padding-left :30px;
+    padding-right: 30px;
+}
+.middle h3{
+    margin-top:0;
+
+}
+
+/* imaginile */
+.vegetale img{
+    width:190px;
+    height:100px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+/* ul  */
+.veg-ul-list {
+    display: inline-block;
+    
+    margin:auto;
+    list-style: none;
+    width:100%;
+    min-height: 100%;
+    padding-left: 10px;
+    padding-right: 0;
+    font-family: 'Titillium Web', sans-serif;
+    
+}
+
+.veg-card{
+    height:100%;
+    
+}
+
+.veg-li {
+    width:190px;
+    height:350px;
+    background-color: #ffffff;
+    float:left;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top:10px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 6px #888888;
+
+}
+
+.card-block{
+    background-color:#ffff;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    height:100%
+    
+}
+
+.card-title{
+    font-weight: 300;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+    margin-left:10px;
+    padding-top:5px;
+    color: rgb(75, 68, 68);
+}
+
+/* descrierea produselor  */
+.veg-desc{
+    color:rgb(124, 114, 114);
+    margin-left:12px;
+    margin-right: 12px;
+    height:160px;
+    
+}
+
+.veg-desc p {
+   font-size: 15px;
+   margin:0;
+}
+
+.veg-link {
+    padding: 10px;
+    text-align: center;
+    width:120px;
+    height:20px;
+    border:1px solid rgb(116, 157, 196);
+    border-radius: 6px;
+    margin:auto;
+    margin-bottom: 10px;
+}
+
+.veg-link a{
+    text-decoration: none;
+    color:rgb(116, 157, 196);
+    
+    
+}
+/* adauga efect cartonaselor cand mouseul pluteste peste ele */
+.veg-card:hover .veg-link{
+    background-color: #335;
+    
+}
+
+.veg-card:hover .veg-link a{
+    color:#efefef;
+}
+
+/* footer */
+
+footer{
+    display: block;
+    position: relative;
+    height:160px;   
+    background-color: #efefef;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+footer::after {
+    content: "";
+    background: url('img/background2.png');
+    background-attachment: fixed;
+    opacity: 0.2;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+  }
+
+.info {
+    width:700px;
+    height: 100%;
+    margin:auto;
+    
+}
+
+.sezon {
+    width:38%;
+    display: inline;
+    transform:translateY(30%); 
+}
+
+.sezon a{
+    text-decoration: none;
+    color: rgb(49, 49, 49);
+    
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+
+.sezon a:hover{
+    color: rgb(112, 112, 134);
+}
+
+.despre{
+    float:right;
+    display: inline-block;
+    width: 33%;
+    text-align:center;
+}
+
+.despre a{
+    text-decoration: none;
+    color: rgb(49, 49, 49); 
+}
+
+.despre a:hover{
+    color: rgb(112, 112, 134);
+}
+
+.cpy {
+    transform: translateY(150%);
+    text-align: center;
+    
+    font-size:12px; 
+}
+
+.cpy p {
+    width:200px;
+    margin:auto;
+
+}
+
+.cpy p a{
+    text-decoration: none;
+    color: navy;
+}
+
+/* pentru diferite rezolutii ale ecranelor */
+
+@media screen and (max-width: 540px) {
+    .totlu {
+        width:100%;
+       
+    }
+    body{
+        width:100%;
+    }
+    .imagine {
+        width: 100%;
+        height:460px;
+    }
+    .select {
+        width:200px;
+        height:400px;
+        position:relative;
+        z-index:-2;
+    }
+
+    .container{
+        width:200px;
+    }
+    .content {
+        width: 200px;
+    }
+
+    .titlu {
+        width:200px;
+    }
+    .info{
+        width: 100px;
+    }
+    .dropdownFood{
+        width:100px;
+        transform:translateY(255%);
+        float:left;
+        margin-right: 100px;
+        z-index:-1;
+        position:relative;
+    }
+    .dropdown-content{
+        z-index:10;
+        position:absolute;
+    }
+    .dropdown{
+        width:100px;
+        display:block;
+    }
+}
+@media screen and (min-width: 540px) and (max-width: 900px) {
+    html{
+        width:100%;
+        
+    }
+    .totul{
+        width:100%;
+        text-align:center;
+        
+    }
+    body{
+        width:100%;
+    }
+    .imagine {
+        width: 100%;
+        height:450px;
+    }
+    .select {
+        width: 300px;
+        position:relative;
+        z-index:-2;
+    }
+    .container {
+        width:300px;
+    }
+    .content {
+        width:300px;
+    }
+    .titlu{
+        width:300px;
+    }
+    .info{
+        width: 600px;
+    }
+    
+    .dropdownFood{
+        transform:translateY(180%);
+        float:left;
+        z-index: -1;
+        position:relative;
+    }
+    .dropdown-content{
+        z-index:10;
+        position:absolute;
+    }
+    .hide{
+        display:none;
+    }
+}

@@ -1,0 +1,16 @@
+// o sa iau obiectul Data aflu in ce luna ma aflu, si afisez pe pagina principala produsele care sunt disponibile in acea luna :D o sa scriu la fiecare produs in JSON lunile in care este valabil si trebuie sa filtrez produsele sa fie afisate;
+
+// produc anchorul din lista de butonului de produse cu javascript iau din json numele produsului si il introduc in a-uri in divul din lista 
+
+// sa fac night mode :> :D 
+
+// trebuie sa fac lista sa se deschida la itemul selectat :D ;
+
+// CSS pointer-events: none; face sa poti apasa printr-un element care are pozitia absolute;
+
+
+// in tablet view trebuie sa fac image height mai mare la paginile cu luni si produse pentru ca lista intra peste titlu midle pot sa incerc sa pun la midle-content in css pointer-events:none;
+
+// ca sa il deschid trebuie sa introduc in powershell json-server --watch vegetale.json;
+
+//image-rendering in css il folosesc pentru ca imaginile in chrome se vad blurry  
