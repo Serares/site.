@@ -479,7 +479,7 @@
         "altimagine": "Nap",
         "imagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Turnip_2622027.jpg/280px-Turnip_2622027.jpg",
         "titlu":"Nap",
-        "descriere":"Napul face parte din aceeasi familie ca si varza kale si broccoli, despre care stim deja ca aduce numai beneficii pentru organism. Este bogat in potasiu, fibre, vitamina C si antioxidanti.",
+        "descriere":"Napul face parte din aceeasi familie ca si varza kale si broccoli, despre care stim deja ca aduce numai beneficii pentru organism. Este bogat in potasiu, fibre, vitamina C.",
         "linkprodus": "produse/nap.html",
         "luna":["septembrie","octombrie","noiembrie","decembrie","ianuarie","februarie","martie","aprilie"],
         "cale": "nap.html"
@@ -577,7 +577,7 @@
         "altimagine": "Rubarba",
         "imagine": "https://www.culinar.ro/assets/files/articles/2594/fdb_1443003307_rubarba_ce_este_si_cum_o_folosim.jpg",
         "titlu":"Rubarba",
-        "descriere":"Frunzele sunt toxice, contin acid oxalic, care poate provoca moartea. In medicina populara se folosesc petiolurile si rizomii. Rizomii se recolteaza toamna tarziu, numai de la plante care au cel putin 8 ani de vegetatie.",
+        "descriere":"Frunzele sunt toxice, contin acid oxalic, care poate provoca moartea. In medicina populara se folosesc petiolurile si rizomii. Rizomii se recolteaza toamna tarziu.",
         "linkprodus": "produse/rubarba.html",
         "luna":["aprilie","mai","iunie"],
         "cale": "rubarba.html"
@@ -654,7 +654,7 @@
         "altimagine": "Ciuperci",
         "imagine": "http://www.covera.ro/continut/produse/752/600/ciuperci-champignon_1158.jpg",
         "titlu":"Ciuperci",
-        "descriere":" Exista aproximativ 200.000 de specii de ciuperci, insa doar ciupercile Champignon au primit statut de vedeta internationala, fiind cultivate in peste 70 de tari ale lumii.",
+        "descriere":" Exista aproximativ 200.000 de specii de ciuperci, insa doar ciupercile Champignon au primit statut de vedeta internationala.",
         "linkprodus": "produse/ciuperci.html",
         "luna":["aprilie","mai","iunie","iulie","august","septembrie","octombrie","noiembrie","decembrie"],
         "cale": "ciuperci.html"
@@ -665,7 +665,7 @@
         "altimagine": "Salvie",
         "imagine": "http://www.frunza-verde.ro/wp-content/uploads/2011/03/salvie-300x197.jpg",
         "titlu":"Salvie",
-        "descriere":"Salvia, plantă din acceași familie cu menta, are o istorie îndelungată ca remediu pentru diferite boli. De altfel, chiar și denumirea provine din cuvântul latin „salvare”, care semnifică a salva.",
+        "descriere":"Salvia, plantă din acceași familie cu menta, are o istorie îndelungată ca remediu pentru diferite boli. De altfel, chiar și denumirea provine din cuvântul latin „salvare”.",
         "linkprodus": "produse/salvie.html",
         "luna":["aprilie","mai","iunie","iulie","august","septembrie","octombrie"],
         "cale": "salvie.html"
