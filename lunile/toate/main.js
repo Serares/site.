@@ -137,7 +137,7 @@ window.addEventListener('click',function(e){
     // cerere XML ;
     var reqJson = new XMLHttpRequest();
 
-    reqJson.open('GET','http://localhost:3000/2');
+    reqJson.open('GET','../vegetale.json');
 
     reqJson.onreadystatechange = function(){
 
